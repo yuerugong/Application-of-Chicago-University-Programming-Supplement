@@ -11,4 +11,4 @@
     5) Being in a serious relationship (between 1 to 10)
     6) Graduate in good economic condition (between 1 to 10 with 10 as amazing economy)
     7) Number of internships
-  By using these 7 factors to predict if a student will get a job right out of college.
+By using these 7 factors to predict if a student will get a job right out of college.
